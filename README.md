@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm INFANT CALVIN P</h1>
 <h3 align="center">Full stack Developer | MERN STACK Developer | Cloud Computing</h3>
 
-- 🌱 I’m currently learning **Ethical Hacking**
-
 - 📫 How to reach me **infantcalvinp12413@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
